@@ -239,10 +239,12 @@ ul {
   margin-bottom: 0;
   padding-left: 0;
   padding-right: 0;
+  padding-bottom: 30px;
   background-color: var(--white-text-background-color);
   font-size: 16px;
   line-height: 1.19;
   text-align: center;
+  border-radius: 4px;
 }
 
 .person-card:not(:last-child) {
@@ -251,7 +253,8 @@ ul {
 
 .person-card > img {
   display: block;
-  border-radius: 4px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
 }
 
 .person-name {
