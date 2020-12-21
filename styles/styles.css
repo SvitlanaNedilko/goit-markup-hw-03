@@ -302,14 +302,14 @@ ul {
 
 /* page portfolio */
 
-.project-portfolio {
-  padding-top: 94px;
-  padding-bottom: 94px;
-}
-
 .project-title {
   margin-top: 0;
   margin-bottom: 0;
+}
+
+.project-portfolio {
+  padding-top: 94px;
+  padding-bottom: 94px;
 }
 
 .filters {
