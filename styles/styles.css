@@ -194,6 +194,7 @@ ul {
 .benefit-description {
   margin-top: 0;
   margin-bottom: 0px;
+  line-height: 1.71;
 }
 
 /* section work type*/
@@ -333,6 +334,7 @@ ul {
 
   background-color: var(--background-grey-color);
   color: var(--title-text-color);
+  font-family: inherit;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
